@@ -10,7 +10,7 @@
   "I18N_SPLASH_JAVASCRIPT_ERROR_TITLE": "Precisamos do JavaScript no teu navegador",
   "I18N_SPLASH_JAVASCRIPT_ERROR_DESCRIPTION": "Oppia é uma plataforma gratuita de aprendizagem de código aberto, online cheia actividades interactivas chamadas 'explorações'. Lamentamos, mas para que funcione correctamente, Oppia requer que o JavaScript esteja activo para correr no teu navegador. Se precisares de ajuda para activar o JavaScript, <a href=\"<[hrefUrl]>\">clica aqui.</a>",
   "I18N_SPLASH_JAVASCRIPT_ERROR_THANKS": "Obrigado.",
-  "I18N_SPLASH_SITE_FEEDBACK": "Dá-nos a tua opinião sobre site",
+  "I18N_SPLASH_SITE_FEEDBACK": "Dá-nos a tua opinião sobre o site",
   "I18N_LIBRARY_PAGE_TITLE": "Biblioteca de explorações - Oppia",
   "I18N_LIBRARY_SEARCH_PLACEHOLDER": "O que desperta a tua curiosidade?",
   "I18N_LIBRARY_MAIN_HEADER": "Imagina o que poderás aprender hoje...",
